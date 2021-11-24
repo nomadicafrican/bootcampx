@@ -1,0 +1,101 @@
+--2021-11-23 13:29:23--  http://bit.ly/2Z36wZa
+Resolving bit.ly (bit.ly)... 67.199.248.10, 67.199.248.11
+Connecting to bit.ly (bit.ly)|67.199.248.10|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2021-11-23 13:29:24--  (try: 2)  http://bit.ly/2Z36wZa
+Connecting to bit.ly (bit.ly)|67.199.248.10|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2021-11-23 13:29:26--  (try: 3)  http://bit.ly/2Z36wZa
+Connecting to bit.ly (bit.ly)|67.199.248.10|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2021-11-24 13:40:41--  (try: 4)  http://bit.ly/2Z36wZa
+Connecting to bit.ly (bit.ly)|67.199.248.10|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2021-11-24 13:40:45--  (try: 5)  http://bit.ly/2Z36wZa
+Connecting to bit.ly (bit.ly)|67.199.248.10|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2021-11-24 13:40:50--  (try: 6)  http://bit.ly/2Z36wZa
+Connecting to bit.ly (bit.ly)|67.199.248.10|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2021-11-24 13:40:56--  (try: 7)  http://bit.ly/2Z36wZa
+Connecting to bit.ly (bit.ly)|67.199.248.10|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2021-11-24 13:41:03--  (try: 8)  http://bit.ly/2Z36wZa
+Connecting to bit.ly (bit.ly)|67.199.248.10|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2021-11-24 13:41:11--  (try: 9)  http://bit.ly/2Z36wZa
+Connecting to bit.ly (bit.ly)|67.199.248.10|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2021-11-24 13:41:20--  (try:10)  http://bit.ly/2Z36wZa
+Connecting to bit.ly (bit.ly)|67.199.248.10|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2021-11-24 13:41:31--  (try:11)  http://bit.ly/2Z36wZa
+Connecting to bit.ly (bit.ly)|67.199.248.10|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2021-11-24 13:41:41--  (try:12)  http://bit.ly/2Z36wZa
+Connecting to bit.ly (bit.ly)|67.199.248.10|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2021-11-24 13:41:51--  (try:13)  http://bit.ly/2Z36wZa
+Connecting to bit.ly (bit.ly)|67.199.248.10|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2021-11-24 13:42:01--  (try:14)  http://bit.ly/2Z36wZa
+Connecting to bit.ly (bit.ly)|67.199.248.10|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2021-11-24 13:42:11--  (try:15)  http://bit.ly/2Z36wZa
+Connecting to bit.ly (bit.ly)|67.199.248.10|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2021-11-24 13:42:21--  (try:16)  http://bit.ly/2Z36wZa
+Connecting to bit.ly (bit.ly)|67.199.248.10|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2021-11-24 13:42:31--  (try:17)  http://bit.ly/2Z36wZa
+Connecting to bit.ly (bit.ly)|67.199.248.10|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2021-11-24 13:42:41--  (try:18)  http://bit.ly/2Z36wZa
+Connecting to bit.ly (bit.ly)|67.199.248.10|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2021-11-24 13:42:51--  (try:19)  http://bit.ly/2Z36wZa
+Connecting to bit.ly (bit.ly)|67.199.248.10|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2021-11-24 13:43:01--  (try:20)  http://bit.ly/2Z36wZa
+Connecting to bit.ly (bit.ly)|67.199.248.10|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Giving up.
+
